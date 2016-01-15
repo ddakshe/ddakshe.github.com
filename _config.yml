@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   안녕하세요.
   케넨입니다.
     이글을 읽고 계신 당신은 혹시 너테출??
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "/blog-server" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: ddakshe
 github_username:  ddakshe
